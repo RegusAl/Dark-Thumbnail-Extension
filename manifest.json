@@ -11,7 +11,7 @@
     "author": "Albert Regus - RegusAl",
     "content_scripts": [
         {
-            "matches": ["https://youtube.com/*"],
+            "matches": ["https://www.youtube.com/"],
             "css": ["style.css"]
         }
     ]
