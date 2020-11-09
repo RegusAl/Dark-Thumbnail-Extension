@@ -1,4 +1,5 @@
-# Dark Thumbnail Extension v. 1.0.0
+
+#  Dark Thumbnail Extension v. 1.0.0 <img src="https://github.com/RegusAl/Dark-Thumbnail-Extension/blob/main/icons/dark_extension_48.png">
  
 Extension to make the thumbnail of videos that you watched on youtube become dark.
 
@@ -11,3 +12,11 @@ Extension to make the thumbnail of videos that you watched on youtube become dar
 - Navigate to `chrome://extensions` from your address bar.
 - Enable `Developer mode` located in the top-right corner.
 - Drag-and-drop the extracted folder into the Extensions page.
+
+## Demo: 
+
+
+<div align="center">
+<img src="https://github.com/RegusAl/Dark-Thumbnail-Extension/blob/main/demo.PNG">
+</div>
+
