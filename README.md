@@ -3,6 +3,8 @@
  
 Extension to make the thumbnail of videos that you watched on youtube become dark.
 
+ - Works on Chrome Browser
+
 
 ## Chrome
 
