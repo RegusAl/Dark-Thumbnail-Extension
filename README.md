@@ -1,5 +1,5 @@
 
-#  Dark Thumbnail Extension v. 1.0.0 <img src="https://github.com/RegusAl/Dark-Thumbnail-Extension/blob/main/icons/dark_extension_48.png">
+#  Dark Thumbnail Extension v. 1.0.0 
  
 Extension to make the thumbnail of videos that you watched on youtube become dark.
 
